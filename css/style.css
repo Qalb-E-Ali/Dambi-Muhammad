@@ -126,3 +126,7 @@ code {
     min-width: 233px;
   }
 }
+
+.welcome-text {
+  margin-left: 320px;
+}
